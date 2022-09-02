@@ -1,4 +1,16 @@
+## Monokai Color Scheme for TeXstudio inspired from Overleaf
+
 ![](texstudio_monokai_scheme.png)
+
+### Other Color Schemes
+https://tex.stackexchange.com/questions/108315/how-can-i-set-a-dark-theme-in-texstudio
+
+### How to install in Windows 10
+
+Path to *texstudio.ini*  
+C:\Users\<user>\AppData\Roaming\texstudio\texstudio.ini
+
+Add lines below to *texstudio.ini*
 
 ```
 [formats]
