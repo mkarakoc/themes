@@ -8,7 +8,7 @@ https://tex.stackexchange.com/questions/108315/how-can-i-set-a-dark-theme-in-tex
 ### How to install in Windows 10
 
 Path to *texstudio.ini*  
-C:\Users\<user>\AppData\Roaming\texstudio\texstudio.ini
+C:\Users\\<user>\\AppData\Roaming\texstudio\texstudio.ini
 
 Add lines below to *texstudio.ini*
 
