@@ -1,4 +1,4 @@
-## Monokai Color Scheme for TeXstudio inspired from Overleaf
+## Monokai Color Scheme for [TeXstudio](https://www.texstudio.org/) inspired from [Overleaf](https://www.overleaf.com/)
 
 ![](texstudio_monokai_scheme.png)
 
